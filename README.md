@@ -13,10 +13,12 @@ I was part of the development from the start for a few months.
 
 Laser Powerup:
 [Video](https://youtu.be/651JEb670no)
+
 ![Laser](https://github.com/zaapaa/LaserGrid-sample/raw/master/pics/Laser.jpg)
 
 Lightning Powerup:
 [Video](https://youtu.be/Unz620S9niM)
+
 ![Lightning](https://github.com/zaapaa/LaserGrid-sample/raw/master/pics/Lightning.jpg)
 
 More screenshots:
